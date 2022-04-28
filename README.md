@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KroeteTroete
+- 👋 Hi, I’m @KroeteTroete / Liam
 - 👀 I’m interested in programming, video games and music
 - 🌱 I’m currently learning Python and Java
 
